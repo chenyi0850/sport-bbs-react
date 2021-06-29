@@ -1,0 +1,20 @@
+.comments-list {
+    .comments {
+        .meta {
+            h3 {
+                font-size: 15px;
+                color: #333;
+                margin-bottom: 0;
+            }
+            span {
+                font-size: 12px;
+                color: #969696;
+            }
+        }
+        .other-comments {
+            margin: 10px 0 0 20px;
+            border-top: 1px solid rgba(0, 0, 0, 0.06);
+            padding-top: 10px;
+        }
+    }
+}

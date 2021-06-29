@@ -1,0 +1,9 @@
+.side-bar {
+    display: flex;
+    height: 100%;
+    .boundary{
+        width: 10px;
+        height: 100%;
+        background-color: #f0f2f5;
+    }
+}
